@@ -10,7 +10,6 @@
             <id>acada-web-app-release</id>
             <username>${repo.login}</username>
             <password>${repo.pwd}</password>
-            <url>${repo.rel-url}</url>
         </server>
     </servers>
 </settings>
